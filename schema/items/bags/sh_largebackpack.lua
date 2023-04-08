@@ -1,0 +1,10 @@
+ITEM.name = "A Large Backpack"
+ITEM.description = "A bag to hold items."
+ITEM.model = "models/props_clutter/pouch.mdl"
+ITEM.category = "Storage"
+ITEM.width = 5
+ITEM.height = 5
+ITEM.invWidth = 8
+ITEM.invHeight = 8
+ITEM.isBag = true
+ITEM.flag = "i"

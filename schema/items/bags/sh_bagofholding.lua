@@ -1,0 +1,10 @@
+ITEM.name = "Bag of Holding"
+ITEM.description = "Seems to be enchanted."
+ITEM.model = "models/props_clutter/coin_bag_large.mdl"
+ITEM.category = "Storage"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.invWidth = 6
+ITEM.invHeight = 6
+ITEM.isBag = true
+ITEM.flag = "i"

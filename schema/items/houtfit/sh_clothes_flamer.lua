@@ -1,0 +1,7 @@
+ITEM.name = "Flamer Guardsmen Uniform"
+ITEM.description = "Standard Issue Uniform for Flamer Guardsmen"
+ITEM.category = "Clothing"
+ITEM.outfitCategory = "Clothing"
+ITEM.flag = "c"
+ITEM.model = "models/weapons/w_package.mdl"
+ITEM.replacement = "models/fptp_786th_swt_flamer.mdl"

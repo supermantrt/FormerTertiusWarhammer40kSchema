@@ -1,0 +1,7 @@
+ITEM.name = "Veteran VOX Guardsmen Uniform"
+ITEM.description = "Standard Issue Uniform for Veteran VOX Guardsmen"
+ITEM.category = "Clothing"
+ITEM.outfitCategory = "Clothing"
+ITEM.flag = "c"
+ITEM.model = "models/weapons/w_package.mdl"
+ITEM.replacement = "models/fptp_786th_vet_vox.mdl"

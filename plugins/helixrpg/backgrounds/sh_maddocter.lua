@@ -1,0 +1,7 @@
+BACKGROUND.name = "Mad Docter"
+BACKGROUND.description = "You were once a respectable physician in the imperium. You had studied among the finest physicians in your local system learning much about aliments, disease and the body. In your past you may have been called upon by even nobility or officers of the imperial guard for them to access your services. You must say though that sometimes your mind recalls a much different story. A past where you butchered the underhivers bodies for organs and did more butchery than healing trying to mend those that could afford your services. Your story seems to never align perfectly or is different each day. Your past now is nothing but forgotten or you just refuse to remember it fully whatever the case your skills in the medical field seem almost unparalleled. The biologis of the mechanicus even look sometimes curiously over at your work. You do though sometimes get more involved in the process which can lead to more harm than good. The men of the ship have learned to keep their eyes on you unless they lose them the next night."
+BACKGROUND.icon = "spawnicons/models/muschi/city/muschi_city_doctor.png"
+BACKGROUND.traits = {
+	"insanedocter",
+	"paranoid"
+}

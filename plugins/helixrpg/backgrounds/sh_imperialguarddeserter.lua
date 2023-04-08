@@ -1,0 +1,6 @@
+BACKGROUND.name = "Imperial Guard Deserter"
+BACKGROUND.description = "The astra militarum guard regiments have a tough life. Death awaits upon every corner and the horrors of war strain even the toughest of men. You faced the full brunt of this and returned unshaken, You have been the shield of humanity multiple times watching comrades fall and kill beasts that you wished was only fiction and yet you lived. A good man never rests his boots when evil is alive and so you move on with the battles. You continued your duty until a fateful day arrived. Not many of the men you came with tell the story. Even the men who came by themselves keep it to themselves. You yourself only will know what had occurred in that battle and what led to your desertion. Your heads were now worth their weight in thrones but you were able to find refuge in the company of a rogue trader. In return for service and loyalty you have earned you protection. Your service will not know any bounds as before when you were part of the guard but will you falter like before? Only you yourself will know this."
+BACKGROUND.icon = "spawnicons/models/fptp_786th_swt.png"
+BACKGROUND.traits = {
+	"hardenedvet"
+}

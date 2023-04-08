@@ -1,0 +1,7 @@
+ITEM.name = "Heisenberg Clothes"
+ITEM.description = "JESSE"
+ITEM.category = "Clothing"
+ITEM.outfitCategory = "Clothing"
+ITEM.flag = "c"
+ITEM.model = "models/weapons/w_package.mdl"
+ITEM.replacement = "models/kory/re8/re_heisenberg.mdl"

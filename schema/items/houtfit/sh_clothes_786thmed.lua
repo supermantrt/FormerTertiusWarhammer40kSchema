@@ -1,0 +1,7 @@
+ITEM.name = "786th Medic Clothes"
+ITEM.description = "Some clothing that is associated with mercenaries"
+ITEM.category = "Clothing"
+ITEM.outfitCategory = "Clothing"
+ITEM.flag = "c"
+ITEM.model = "models/weapons/w_package.mdl"
+ITEM.replacement = "models/fptp_786th_vet_med.mdl"

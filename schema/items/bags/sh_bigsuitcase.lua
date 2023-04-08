@@ -1,0 +1,10 @@
+ITEM.name = "Big Suitcase"
+ITEM.description = "A bag to hold items."
+ITEM.model = "models/props_c17/suitcase001a.mdl"
+ITEM.category = "Storage"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.invWidth = 4
+ITEM.invHeight = 3
+ITEM.isBag = true
+ITEM.flag = "i"

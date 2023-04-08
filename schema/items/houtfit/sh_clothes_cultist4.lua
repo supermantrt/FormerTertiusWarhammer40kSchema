@@ -1,0 +1,7 @@
+ITEM.name = "Cultist Clothes4"
+ITEM.description = "Some clothing"
+ITEM.category = "Clothing"
+ITEM.outfitCategory = "Clothing"
+ITEM.flag = "c"
+ITEM.model = "models/weapons/w_package.mdl"
+ITEM.replacement = "models/dizcordum/chaos/cultist/cultist4.mdl"

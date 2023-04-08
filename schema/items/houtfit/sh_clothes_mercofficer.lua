@@ -1,0 +1,7 @@
+ITEM.name = "Mercenary Officer Clothes"
+ITEM.description = "Some clothing that is associated with mercenary officers"
+ITEM.category = "Clothing"
+ITEM.outfitCategory = "Clothing"
+ITEM.flag = "c"
+ITEM.model = "models/weapons/w_package.mdl"
+ITEM.replacement = "models/muschi/city/muschi_city_spo_2.mdl"

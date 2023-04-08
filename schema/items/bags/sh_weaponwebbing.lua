@@ -1,0 +1,10 @@
+ITEM.name = "Military Webbing"
+ITEM.description = "A Webbing to hold a weapon."
+ITEM.model = "models/props_clutter/pouch.mdl"
+ITEM.category = "Storage"
+ITEM.width = 4
+ITEM.height = 4
+ITEM.invWidth = 10
+ITEM.invHeight = 4
+ITEM.isBag = true
+ITEM.flag = "i"

@@ -1,0 +1,7 @@
+ITEM.name = "Muschi Veteran Medic Clothes"
+ITEM.description = "Some clothing"
+ITEM.category = "Clothing"
+ITEM.outfitCategory = "Clothing"
+ITEM.flag = "c"
+ITEM.model = "models/weapons/w_package.mdl"
+ITEM.replacement = "models/muschi/knight_ig/muschi_ig_vet_med.mdl"

@@ -1,0 +1,6 @@
+BACKGROUND.name = "Abhuman"
+BACKGROUND.description = "A beast like none other. Humanity runs through your veins yet you are still some sort of monstrosity. Twisted in form and visage. Centuries of untold experiences have shaped your stature and genetic structure to suit your environment. Your kind is as varied as it is disgusting to those of a more standard origin. These beasts can range from the shortest of men such as the squats to beasts as tall as the primarchs themselves such as ogryns. The different types of abhumans vary massively but if the genetic makeup of such an individual strays too far they may be deemed to be lost. A species that had devolved to a state which is a mockery of man. You are part of the lucky or maybe unlucky ones. You have been given a chance at life within this group be it out of pity for your state or out of sheer usefulness. The Imperium tolerates your presence as long as you do not become a burden.... or you do not lose whatever humanity is left."
+BACKGROUND.icon = "spawnicons/models/muschi/knight_ig/muschi_ig_ogryn.png"
+BACKGROUND.traits = {
+	"distrustfulnature"
+}

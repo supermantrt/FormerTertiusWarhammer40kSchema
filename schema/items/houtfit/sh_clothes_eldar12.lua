@@ -1,0 +1,7 @@
+ITEM.name = "Edlar Clothes12"
+ITEM.description = "Some clothing"
+ITEM.category = "Clothing"
+ITEM.outfitCategory = "Clothing"
+ITEM.flag = "c"
+ITEM.model = "models/weapons/w_package.mdl"
+ITEM.replacement = "models/astartes/eldar/scorpion_asura.mdl"
